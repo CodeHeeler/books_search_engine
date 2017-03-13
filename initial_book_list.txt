@@ -1,0 +1,20 @@
+Dragon's Milk,Fletcher Susan,1989,0689315791,242,14.00,dragons
+A Bride's Story,Mori Kaoru,2009,9780316180993,191,17.00,culture
+Eragon,Paolini Christopher,2003,0375826688,509,18.95,dragons
+The City of Ember,DuPrau Jeanne,2003,0375822747,270,4.99,dystopia
+Harry Potter and the Sorcerer's Stone,Rowling J. K.,1997,059035342X,312,6.99,magic
+Storm Front,Butcher Jim,2000,9780451457813,322,7.99,magic
+Monster Hunter International,Correia Larry,2009,9781439132852,713,7.99,monsters
+Ex-Heroes,Clines Peter,2010,9781934861288,262,14.95,zombies
+Guilty Pleasures,Hamilton Laurell K.,1993,9780515134490,266,7.99,vampires
+Dracula,Stoker Bram,1988,0812523016,368,4.50,vampires
+Stardust,Gaiman Neil,1999,9780061689246,250,6.99,magic
+The Cave of Time,Packard Edward,1979,0553269658,115,2.99,choose
+Where's Waldo,Handford Martin,1987,0316342939,26,10.95,puzzle
+The Flight of Dragons,Dickinson Peter,1979,0060110740,137,17.50,dragons
+Bringing the Rain to Kapiti Plain,Aardema Verna,1981,0590428705,32,2.95,childrens
+Dinotopia,Gurney James,1992,1878685236,160,29.95,childrens
+Puzzle Island,Adshead Paul,1990,0859534030,26,,puzzle
+The Lord of the Rings,Tolkien J. R. R.,1994,0618129022,1146,20.00,fantasy
+Kingdom Come,Waid Mark,2008,9781401220341,232,17.99,comic
+Another Fine Myth,Asprin Robert,1978,0441023592,200,2.75,fantasy
